@@ -1,0 +1,236 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: poppins;
+    src: url(/fonts/poppins/Poppins-Regular.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: poppins;
+    src: url(/fonts/poppins/Poppins-Medium.ttf);
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: poppins;
+    src: url(/fonts/poppins/Poppins-SemiBold.ttf);
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: poppins;
+    src: url(/fonts/poppins/Poppins-Bold.ttf);
+    font-style: normal;
+    font-weight: 700;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    @apply text-[14px] xl:text-[16px] 2xl:text-[18px];
+}
+
+
+
+
+
+
+input[type="range"] {
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 1;
+    height: 2em;
+    background-color: transparent;
+    cursor: pointer;
+    -webkit-appearance: none;
+    width: 100%;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+}
+
+input[type="range"]:focus {
+    outline: none;
+}
+
+input[type="range"]::-ms-track {
+    width: 100%;
+    cursor: pointer;
+    background: transparent;
+    border-color: transparent;
+    color: transparent;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 1.5em;
+    height: 1.5em;
+    margin-top: 0.15em;
+    background-color: rgb(40,40,40);
+    border-radius: 0.5em;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    cursor: pointer;
+}
+
+input[type="range"]::-moz-range-thumb {
+    width: 1.5em;
+    height: 1.5em;
+    margin-top: 0.15em;
+    background-color: rgb(40,40,40);
+    border-radius: 0.5em;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    cursor: pointer;
+}
+
+input[type="range"]::-ms-thumb {
+    width: 1.5em;
+    height: 1.5em;
+    margin-top: 0.15em;
+    background-color: rgb(40,40,40);
+    border-radius: 0.5em;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    cursor: pointer;
+}
+
+input[type="range"]:hover::-webkit-slider-thumb {
+    border-color: rgba(255, 255, 255, 0.7);
+}
+
+input[type="range"]:hover::-moz-range-thumb {
+    border-color: rgba(255, 255, 255, 0.7);
+}
+
+input[type="range"]:hover::-ms-thumb {
+    border-color: rgba(255, 255, 255, 0.7);
+}
+
+input[type="range"]:active::-webkit-slider-thumb {
+    border-color: #ffffff;
+}
+
+input[type="range"]:active::-moz-range-thumb {
+    border-color: #ffffff;
+}
+
+input[type="range"]:active::-ms-thumb {
+    border-color: #ffffff;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+    width: 100%;
+    cursor: pointer;
+    height: 1em;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: transparent;
+}
+
+input[type="range"]::-moz-range-track {
+    width: 100%;
+    cursor: pointer;
+    height: 1em;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: transparent;
+}
+
+input[type="range"]::-ms-track {
+    background: transparent;
+    border-color: transparent;
+    color: transparent;
+}
+
+
+
+.party {
+    background-size: 100% 100%;
+    background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+    background-image: radial-gradient(49% 81% at 45% 47%, #FFE20345 0%, #073AFF00 100%),radial-gradient(113% 91% at 17% -2%, #FF5A00FF 1%, #FF000000 99%),radial-gradient(142% 91% at 83% 7%, #FFDB00FF 1%, #FF000000 99%),radial-gradient(142% 91% at -6% 74%, #FF0049FF 1%, #FF000000 99%),radial-gradient(142% 91% at 111% 84%, #FF7000FF 0%, #FF0000FF 100%);
+}
+.mood {
+    background: #0099F7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F11712, #0099F7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F11712, #0099F7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.summer {
+    background: #2980b9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.pop {
+    background: #4DA0B0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #D39D38, #4DA0B0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #D39D38, #4DA0B0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.trending {
+    background: #5614B0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #DBD65C, #5614B0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #DBD65C, #5614B0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.hip-hop {
+    background: #5614B0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #DBD65C, #5614B0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #DBD65C, #5614B0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.chill {
+    background: #2F7336;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #AA3A38, #2F7336);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #AA3A38, #2F7336); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.gym {
+    background: #1e3c72;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2a5298, #1e3c72);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2a5298, #1e3c72); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.love {
+    background: #114357;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F29492, #114357);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F29492, #114357); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.food {
+    background: #fd746c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ff9068, #fd746c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ff9068, #fd746c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.decades {
+    background: #eacda3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #d6ae7b, #eacda3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #d6ae7b, #eacda3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.artists {
+    background: #457fca;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.treditional {
+    background: #B24592;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F15F79, #B24592);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F15F79, #B24592); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.focus {
+    background: #403A3E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #BE5869, #403A3E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #BE5869, #403A3E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.occasions {
+    background: #c2e59c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.videos {
+    background: #FFB75E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ED8F03, #FFB75E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ED8F03, #FFB75E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

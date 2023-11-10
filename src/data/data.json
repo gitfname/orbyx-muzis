@@ -1,0 +1,1520 @@
+[
+    {
+        "id": "music-1",
+        "img": "/images/1.jpg",
+        "name": "music-1",
+        "pubDate": "2023/05/10",
+        "url": "musics/1.mp3",
+        "colors": [
+            "#a90622",
+            "#e0695e"
+        ]
+    },
+    {
+        "id": "music-2",
+        "img": "/images/2.jpg",
+        "name": "music-2",
+        "pubDate": "2023/05/10",
+        "url": "musics/2.mp3",
+        "colors": [
+            "#9eaab8",
+            "#f8fcfd"
+        ]
+    },
+    {
+        "id": "music-3",
+        "img": "/images/3.jpg",
+        "name": "music-3",
+        "pubDate": "2023/05/10",
+        "url": "musics/3.mp3",
+        "colors": [
+            "#c02493",
+            "#f89bf8"
+        ]
+    },
+    {
+        "id": "music-4",
+        "img": "/images/4.jpg",
+        "name": "music-4",
+        "pubDate": "2023/05/10",
+        "url": "musics/4.mp3",
+        "colors": [
+            "#d1b68f",
+            "#7e695a"
+        ]
+    },
+    {
+        "id": "music-5",
+        "img": "/images/5.jpg",
+        "name": "music-5",
+        "pubDate": "2023/05/10",
+        "url": "musics/5.mp3",
+        "colors": [
+            "#ff100b",
+            "#f8c806"
+        ]
+    },
+    {
+        "id": "music-6",
+        "img": "/images/6.jpg",
+        "name": "music-6",
+        "pubDate": "2023/05/10",
+        "url": "musics/6.mp3",
+        "colors": [
+            "#10e1f2",
+            "#c210a3"
+        ]
+    },
+    {
+        "id": "music-7",
+        "img": "/images/7.jpg",
+        "name": "music-7",
+        "pubDate": "2023/05/10",
+        "url": "musics/7.mp3",
+        "colors": [
+            "#d002ca",
+            "#d28d2c"
+        ]
+    },
+    {
+        "id": "music-8",
+        "img": "/images/8.jpg",
+        "name": "music-8",
+        "pubDate": "2023/05/10",
+        "url": "musics/8.mp3",
+        "colors": [
+            "#ebeaf3",
+            "#6c6d69"
+        ]
+    },
+    {
+        "id": "music-9",
+        "img": "/images/9.jpg",
+        "name": "music-9",
+        "pubDate": "2023/05/10",
+        "url": "musics/9.mp3",
+        "colors": [
+            "#d7cbbd",
+            "#523f3b"
+        ]
+    },
+    {
+        "id": "music-10",
+        "img": "/images/10.jpg",
+        "name": "music-10",
+        "pubDate": "2023/05/10",
+        "url": "musics/10.mp3",
+        "colors": [
+            "#bfbfbf",
+            "#808080"
+        ]
+    },
+    {
+        "id": "music-11",
+        "img": "/images/11.jpg",
+        "name": "music-11",
+        "pubDate": "2023/05/10",
+        "url": "musics/11.mp3",
+        "colors": [
+            "#f0f0f0",
+            "#aeaeae"
+        ]
+    },
+    {
+        "id": "music-12",
+        "img": "/images/12.jpg",
+        "name": "music-12",
+        "pubDate": "2023/05/10",
+        "url": "musics/12.mp3",
+        "colors": [
+            "#85a4b5",
+            "#43576b"
+        ]
+    },
+    {
+        "id": "music-13",
+        "img": "/images/13.jpg",
+        "name": "music-13",
+        "pubDate": "2023/05/10",
+        "url": "musics/13.mp3",
+        "colors": [
+            "#0092d7",
+            "#bf145a"
+        ]
+    },
+    {
+        "id": "music-14",
+        "img": "/images/14.jpg",
+        "name": "music-14",
+        "pubDate": "2023/05/10",
+        "url": "musics/14.mp3",
+        "colors": [
+            "#00b9e2",
+            "#e5dc3d"
+        ]
+    },
+    {
+        "id": "music-15",
+        "img": "/images/15.jpg",
+        "name": "music-15",
+        "pubDate": "2023/05/10",
+        "url": "musics/15.mp3",
+        "colors": [
+            "#43ace6",
+            "#f5ed83"
+        ]
+    },
+    {
+        "id": "music-16",
+        "img": "/images/16.jpg",
+        "name": "music-16",
+        "pubDate": "2023/05/10",
+        "url": "musics/16.mp3",
+        "colors": [
+            "#ec4228",
+            "#80103f"
+        ]
+    },
+    {
+        "id": "music-17",
+        "img": "/images/17.jpg",
+        "name": "music-17",
+        "pubDate": "2023/05/10",
+        "url": "musics/17.mp3",
+        "colors": [
+            "#9f9c97",
+            "#645d57"
+        ]
+    },
+    {
+        "id": "music-18",
+        "img": "/images/18.jpg",
+        "name": "music-18",
+        "pubDate": "2023/05/10",
+        "url": "musics/18.mp3",
+        "colors": [
+            "#e34f60",
+            "#60a2ee"
+        ]
+    },
+    {
+        "id": "music-19",
+        "img": "/images/19.jpg",
+        "name": "music-19",
+        "pubDate": "2023/05/10",
+        "url": "musics/19.mp3",
+        "colors": [
+            "#dbcbaa",
+            "#728089"
+        ]
+    },
+    {
+        "id": "music-20",
+        "img": "/images/20.jpg",
+        "name": "music-20",
+        "pubDate": "2023/05/10",
+        "url": "musics/20.mp3",
+        "colors": [
+            "#d07252",
+            "#566173"
+        ]
+    },
+    {
+        "id": "music-21",
+        "img": "/images/21.jpg",
+        "name": "music-21",
+        "pubDate": "2023/05/10",
+        "url": "musics/21.mp3",
+        "colors": [
+            "#9649ca",
+            "#7da4f9"
+        ]
+    },
+    {
+        "id": "music-22",
+        "img": "/images/22.jpg",
+        "name": "music-22",
+        "pubDate": "2023/05/10",
+        "url": "musics/22.mp3",
+        "colors": [
+            "#c7372e",
+            "#96a5b8"
+        ]
+    },
+    {
+        "id": "music-23",
+        "img": "/images/23.jpg",
+        "name": "music-23",
+        "pubDate": "2023/05/10",
+        "url": "musics/23.mp3",
+        "colors": [
+            "#344ea1",
+            "#a1b1c8"
+        ]
+    },
+    {
+        "id": "music-24",
+        "img": "/images/24.jpg",
+        "name": "music-24",
+        "pubDate": "2023/05/10",
+        "url": "musics/24.mp3",
+        "colors": [
+            "#fc5006",
+            "#50fffa"
+        ]
+    },
+    {
+        "id": "music-25",
+        "img": "/images/25.jpg",
+        "name": "music-25",
+        "pubDate": "2023/05/10",
+        "url": "musics/25.mp3",
+        "colors": [
+            "#544a3f",
+            "#bbb5a9"
+        ]
+    },
+    {
+        "id": "music-26",
+        "img": "/images/26.jpg",
+        "name": "music-26",
+        "pubDate": "2023/05/10",
+        "url": "musics/26.mp3",
+        "colors": [
+            "#b0171e",
+            "#c0c0c0"
+        ]
+    },
+    {
+        "id": "music-27",
+        "img": "/images/27.jpg",
+        "name": "music-27",
+        "pubDate": "2023/05/10",
+        "url": "musics/27.mp3",
+        "colors": [
+            "#f1b690",
+            "#b37556"
+        ]
+    },
+    {
+        "id": "music-28",
+        "img": "/images/28.jpg",
+        "name": "music-28",
+        "pubDate": "2023/05/10",
+        "url": "musics/28.mp3",
+        "colors": [
+            "#898f8d",
+            "#d1d3d0"
+        ]
+    },
+    {
+        "id": "music-29",
+        "img": "/images/29.jpg",
+        "name": "music-29",
+        "pubDate": "2023/05/10",
+        "url": "musics/29.mp3",
+        "colors": [
+            "#fcb702",
+            "#fe0406"
+        ]
+    },
+    {
+        "id": "music-30",
+        "img": "/images/30.jpg",
+        "name": "music-30",
+        "pubDate": "2023/05/10",
+        "url": "musics/30.mp3",
+        "colors": [
+            "#f6e8d2",
+            "#819191"
+        ]
+    },
+    {
+        "id": "music-31",
+        "img": "/images/31.jpg",
+        "name": "music-31",
+        "pubDate": "2023/05/10",
+        "url": "musics/31.mp3",
+        "colors": [
+            "#0295eb",
+            "#e50d8c"
+        ]
+    },
+    {
+        "id": "music-32",
+        "img": "/images/32.jpg",
+        "name": "music-32",
+        "pubDate": "2023/05/10",
+        "url": "musics/32.mp3",
+        "colors": [
+            "#868b91",
+            "#4c4f56"
+        ]
+    },
+    {
+        "id": "music-33",
+        "img": "/images/33.jpg",
+        "name": "music-33",
+        "pubDate": "2023/05/10",
+        "url": "musics/33.mp3",
+        "colors": [
+            "#91c9ec",
+            "#b785a8"
+        ]
+    },
+    {
+        "id": "music-34",
+        "img": "/images/34.jpg",
+        "name": "music-34",
+        "pubDate": "2023/05/10",
+        "url": "musics/34.mp3",
+        "colors": [
+            "#d93852",
+            "#767087"
+        ]
+    },
+    {
+        "id": "music-35",
+        "img": "/images/35.jpg",
+        "name": "music-35",
+        "pubDate": "2023/05/10",
+        "url": "musics/35.mp3",
+        "colors": [
+            "#505050",
+            "#b2b2b2"
+        ]
+    },
+    {
+        "id": "music-36",
+        "img": "/images/36.jpg",
+        "name": "music-36",
+        "pubDate": "2023/05/10",
+        "url": "musics/36.mp3",
+        "colors": [
+            "#fc326a",
+            "#820c26"
+        ]
+    },
+    {
+        "id": "music-37",
+        "img": "/images/37.jpg",
+        "name": "music-37",
+        "pubDate": "2023/05/10",
+        "url": "musics/37.mp3",
+        "colors": [
+            "#02c9ff",
+            "#06ee6f"
+        ]
+    },
+    {
+        "id": "music-38",
+        "img": "/images/38.jpg",
+        "name": "music-38",
+        "pubDate": "2023/05/10",
+        "url": "musics/38.mp3",
+        "colors": [
+            "#d6d6d6",
+            "#6b6b6b"
+        ]
+    },
+    {
+        "id": "music-39",
+        "img": "/images/39.jpg",
+        "name": "music-39",
+        "pubDate": "2023/05/10",
+        "url": "musics/39.mp3",
+        "colors": [
+            "#06dbcd",
+            "#f22a77"
+        ]
+    },
+    {
+        "id": "music-40",
+        "img": "/images/40.jpg",
+        "name": "music-40",
+        "pubDate": "2023/05/10",
+        "url": "musics/40.mp3",
+        "colors": [
+            "#385460",
+            "#848790"
+        ]
+    },
+    {
+        "id": "music-41",
+        "img": "/images/41.jpg",
+        "name": "music-41",
+        "pubDate": "2023/05/10",
+        "url": "musics/41.mp3",
+        "colors": [
+            "#ea9415",
+            "#f2e1c3"
+        ]
+    },
+    {
+        "id": "music-42",
+        "img": "/images/42.jpg",
+        "name": "music-42",
+        "pubDate": "2023/05/10",
+        "url": "musics/42.mp3",
+        "colors": [
+            "#f8fdf7",
+            "#8b8e89"
+        ]
+    },
+    {
+        "id": "music-43",
+        "img": "/images/43.jpg",
+        "name": "music-43",
+        "pubDate": "2023/05/10",
+        "url": "musics/43.mp3",
+        "colors": [
+            "#18f0be",
+            "#c035c8"
+        ]
+    },
+    {
+        "id": "music-44",
+        "img": "/images/44.jpg",
+        "name": "music-44",
+        "pubDate": "2023/05/10",
+        "url": "musics/44.mp3",
+        "colors": [
+            "#c1e0f3",
+            "#83a0b2"
+        ]
+    },
+    {
+        "id": "music-45",
+        "img": "/images/45.jpg",
+        "name": "music-45",
+        "pubDate": "2023/05/10",
+        "url": "musics/45.mp3",
+        "colors": [
+            "#d5d844",
+            "#b24846"
+        ]
+    },
+    {
+        "id": "music-46",
+        "img": "/images/46.jpg",
+        "name": "music-46",
+        "pubDate": "2023/05/10",
+        "url": "musics/46.mp3",
+        "colors": [
+            "#fc2b89",
+            "#b97428"
+        ]
+    },
+    {
+        "id": "music-47",
+        "img": "/images/47.jpg",
+        "name": "music-47",
+        "pubDate": "2023/05/10",
+        "url": "musics/47.mp3",
+        "colors": [
+            "#d30073",
+            "#fa64c8"
+        ]
+    },
+    {
+        "id": "music-48",
+        "img": "/images/48.jpg",
+        "name": "music-48",
+        "pubDate": "2023/05/10",
+        "url": "musics/48.mp3",
+        "colors": [
+            "#fb6468",
+            "#92181b"
+        ]
+    },
+    {
+        "id": "music-49",
+        "img": "/images/49.jpg",
+        "name": "music-49",
+        "pubDate": "2023/05/10",
+        "url": "musics/49.mp3",
+        "colors": [
+            "#2935cf",
+            "#f6866f"
+        ]
+    },
+    {
+        "id": "music-50",
+        "img": "/images/50.jpg",
+        "name": "music-50",
+        "pubDate": "2023/05/10",
+        "url": "musics/50.mp3",
+        "colors": [
+            "#c3edf5",
+            "#66576a"
+        ]
+    },
+    {
+        "id": "music-51",
+        "img": "/images/51.jpg",
+        "name": "music-51",
+        "pubDate": "2023/05/10",
+        "url": "musics/51.mp3",
+        "colors": [
+            "#929598",
+            "#d8dadb"
+        ]
+    },
+    {
+        "id": "music-52",
+        "img": "/images/52.jpg",
+        "name": "music-52",
+        "pubDate": "2023/05/10",
+        "url": "musics/52.mp3",
+        "colors": [
+            "#757a80",
+            "#3c3f46"
+        ]
+    },
+    {
+        "id": "music-53",
+        "img": "/images/53.jpg",
+        "name": "music-53",
+        "pubDate": "2023/05/10",
+        "url": "musics/53.mp3",
+        "colors": [
+            "#b81c1f",
+            "#646462"
+        ]
+    },
+    {
+        "id": "music-54",
+        "img": "/images/54.jpg",
+        "name": "music-54",
+        "pubDate": "2023/05/10",
+        "url": "musics/54.mp3",
+        "colors": [
+            "#404040",
+            "#a5a5a5"
+        ]
+    },
+    {
+        "id": "music-55",
+        "img": "/images/55.jpg",
+        "name": "music-55",
+        "pubDate": "2023/05/10",
+        "url": "musics/55.mp3",
+        "colors": [
+            "#c09057",
+            "#fefccc"
+        ]
+    },
+    {
+        "id": "music-56",
+        "img": "/images/56.jpg",
+        "name": "music-56",
+        "pubDate": "2023/05/10",
+        "url": "musics/56.mp3",
+        "colors": [
+            "#da2d1c",
+            "#ff9971"
+        ]
+    },
+    {
+        "id": "music-57",
+        "img": "/images/57.jpg",
+        "name": "music-57",
+        "pubDate": "2023/05/10",
+        "url": "musics/57.mp3",
+        "colors": [
+            "#0a0a0a",
+            "#4c4d47"
+        ]
+    },
+    {
+        "id": "music-58",
+        "img": "/images/58.jpg",
+        "name": "music-58",
+        "pubDate": "2023/05/10",
+        "url": "musics/58.mp3",
+        "colors": [
+            "#01d1cf",
+            "#7415fd"
+        ]
+    },
+    {
+        "id": "music-59",
+        "img": "/images/59.jpg",
+        "name": "music-59",
+        "pubDate": "2023/05/10",
+        "url": "musics/59.mp3",
+        "colors": [
+            "#a3b2c1",
+            "#535760"
+        ]
+    },
+    {
+        "id": "music-60",
+        "img": "/images/60.jpg",
+        "name": "music-60",
+        "pubDate": "2023/05/10",
+        "url": "musics/60.mp3",
+        "colors": [
+            "#929292",
+            "#ffffff"
+        ]
+    },
+    {
+        "id": "music-61",
+        "img": "/images/61.jpg",
+        "name": "music-61",
+        "pubDate": "2023/05/10",
+        "url": "musics/61.mp3",
+        "colors": [
+            "#c21429",
+            "#97736b"
+        ]
+    },
+    {
+        "id": "music-62",
+        "img": "/images/62.jpg",
+        "name": "music-62",
+        "pubDate": "2023/05/10",
+        "url": "musics/62.mp3",
+        "colors": [
+            "#929292",
+            "#ffffff"
+        ]
+    },
+    {
+        "id": "music-63",
+        "img": "/images/63.jpg",
+        "name": "music-63",
+        "pubDate": "2023/05/10",
+        "url": "musics/63.mp3",
+        "colors": [
+            "#53637c",
+            "#e6ecec"
+        ]
+    },
+    {
+        "id": "music-64",
+        "img": "/images/64.jpg",
+        "name": "music-64",
+        "pubDate": "2023/05/10",
+        "url": "musics/64.mp3",
+        "colors": [
+            "#c33218",
+            "#f0b059"
+        ]
+    },
+    {
+        "id": "music-65",
+        "img": "/images/65.jpg",
+        "name": "music-65",
+        "pubDate": "2023/05/10",
+        "url": "musics/65.mp3",
+        "colors": [
+            "#f68331",
+            "#b03f05"
+        ]
+    },
+    {
+        "id": "music-66",
+        "img": "/images/66.jpg",
+        "name": "music-66",
+        "pubDate": "2023/05/10",
+        "url": "musics/66.mp3",
+        "colors": [
+            "#90e493",
+            "#32b5bd"
+        ]
+    },
+    {
+        "id": "music-67",
+        "img": "/images/67.jpg",
+        "name": "music-67",
+        "pubDate": "2023/05/10",
+        "url": "musics/67.mp3",
+        "colors": [
+            "#f3d202",
+            "#e00108"
+        ]
+    },
+    {
+        "id": "music-68",
+        "img": "/images/68.jpg",
+        "name": "music-68",
+        "pubDate": "2023/05/10",
+        "url": "musics/68.mp3",
+        "colors": [
+            "#c7c7c7",
+            "#818181"
+        ]
+    },
+    {
+        "id": "music-69",
+        "img": "/images/69.jpg",
+        "name": "music-69",
+        "pubDate": "2023/05/10",
+        "url": "musics/69.mp3",
+        "colors": [
+            "#685243",
+            "#af9b8e"
+        ]
+    },
+    {
+        "id": "music-70",
+        "img": "/images/70.jpg",
+        "name": "music-70",
+        "pubDate": "2023/05/10",
+        "url": "musics/70.mp3",
+        "colors": [
+            "#5b0cea",
+            "#db016b"
+        ]
+    },
+    {
+        "id": "music-71",
+        "img": "/images/71.jpg",
+        "name": "music-71",
+        "pubDate": "2023/05/10",
+        "url": "musics/71.mp3",
+        "colors": [
+            "#c4b6b9",
+            "#444042"
+        ]
+    },
+    {
+        "id": "music-72",
+        "img": "/images/72.jpg",
+        "name": "music-72",
+        "pubDate": "2023/05/10",
+        "url": "musics/72.mp3",
+        "colors": [
+            "#dcd8d7",
+            "#4d4745"
+        ]
+    },
+    {
+        "id": "music-73",
+        "img": "/images/73.jpg",
+        "name": "music-73",
+        "pubDate": "2023/05/10",
+        "url": "musics/73.mp3",
+        "colors": [
+            "#9615ba",
+            "#555ee8"
+        ]
+    },
+    {
+        "id": "music-74",
+        "img": "/images/74.jpg",
+        "name": "music-74",
+        "pubDate": "2023/05/10",
+        "url": "musics/74.mp3",
+        "colors": [
+            "#dd967a",
+            "#836555"
+        ]
+    },
+    {
+        "id": "music-75",
+        "img": "/images/75.jpg",
+        "name": "music-75",
+        "pubDate": "2023/05/10",
+        "url": "musics/75.mp3",
+        "colors": [
+            "#6a01c4",
+            "#cd3bf1"
+        ]
+    },
+    {
+        "id": "music-76",
+        "img": "/images/76.jpg",
+        "name": "music-76",
+        "pubDate": "2023/05/10",
+        "url": "musics/76.mp3",
+        "colors": [
+            "#9310b6",
+            "#5e5aed"
+        ]
+    },
+    {
+        "id": "music-77",
+        "img": "/images/77.jpg",
+        "name": "music-77",
+        "pubDate": "2023/05/10",
+        "url": "musics/77.mp3",
+        "colors": [
+            "#02aae5",
+            "#2456ab"
+        ]
+    },
+    {
+        "id": "music-78",
+        "img": "/images/78.jpg",
+        "name": "music-78",
+        "pubDate": "2023/05/10",
+        "url": "musics/78.mp3",
+        "colors": [
+            "#e5ae36",
+            "#124374"
+        ]
+    },
+    {
+        "id": "music-79",
+        "img": "/images/79.jpg",
+        "name": "music-79",
+        "pubDate": "2023/05/10",
+        "url": "musics/79.mp3",
+        "colors": [
+            "#9210e3",
+            "#1b78c1"
+        ]
+    },
+    {
+        "id": "music-80",
+        "img": "/images/80.jpg",
+        "name": "music-80",
+        "pubDate": "2023/05/10",
+        "url": "musics/80.mp3",
+        "colors": [
+            "#c03276",
+            "#d1d0d4"
+        ]
+    },
+    {
+        "id": "music-81",
+        "img": "/images/81.jpg",
+        "name": "music-81",
+        "pubDate": "2023/05/10",
+        "url": "musics/81.mp3",
+        "colors": [
+            "#b89b2b",
+            "#9f9c95"
+        ]
+    },
+    {
+        "id": "music-82",
+        "img": "/images/82.jpg",
+        "name": "music-82",
+        "pubDate": "2023/05/10",
+        "url": "musics/82.mp3",
+        "colors": [
+            "#b38176",
+            "#dad7de"
+        ]
+    },
+    {
+        "id": "music-83",
+        "img": "/images/83.jpg",
+        "name": "music-83",
+        "pubDate": "2023/05/10",
+        "url": "musics/83.mp3",
+        "colors": [
+            "#b83d2b",
+            "#fcb687"
+        ]
+    },
+    {
+        "id": "music-84",
+        "img": "/images/84.jpg",
+        "name": "music-84",
+        "pubDate": "2023/05/10",
+        "url": "musics/84.mp3",
+        "colors": [
+            "#51e2f9",
+            "#178ecb"
+        ]
+    },
+    {
+        "id": "music-85",
+        "img": "/images/85.jpg",
+        "name": "music-85",
+        "pubDate": "2023/05/10",
+        "url": "musics/85.mp3",
+        "colors": [
+            "#00daee",
+            "#ae00c8"
+        ]
+    },
+    {
+        "id": "music-86",
+        "img": "/images/86.jpg",
+        "name": "music-86",
+        "pubDate": "2023/05/10",
+        "url": "musics/86.mp3",
+        "colors": [
+            "#b09489",
+            "#e0d6c8"
+        ]
+    },
+    {
+        "id": "music-87",
+        "img": "/images/87.jpg",
+        "name": "music-87",
+        "pubDate": "2023/05/10",
+        "url": "musics/87.mp3",
+        "colors": [
+            "#725ea2",
+            "#372262"
+        ]
+    },
+    {
+        "id": "music-88",
+        "img": "/images/88.jpg",
+        "name": "music-88",
+        "pubDate": "2023/05/10",
+        "url": "musics/88.mp3",
+        "colors": [
+            "#fd0c99",
+            "#0e65de"
+        ]
+    },
+    {
+        "id": "music-89",
+        "img": "/images/89.jpg",
+        "name": "music-89",
+        "pubDate": "2023/05/10",
+        "url": "musics/89.mp3",
+        "colors": [
+            "#7d7d7d",
+            "#3c3c3c"
+        ]
+    },
+    {
+        "id": "music-90",
+        "img": "/images/90.jpg",
+        "name": "music-90",
+        "pubDate": "2023/05/10",
+        "url": "musics/90.mp3",
+        "colors": [
+            "#f80002",
+            "#f59297"
+        ]
+    },
+    {
+        "id": "music-91",
+        "img": "/images/91.jpg",
+        "name": "music-91",
+        "pubDate": "2023/05/10",
+        "url": "musics/91.mp3",
+        "colors": [
+            "#f4f4f4",
+            "#b9b9b9"
+        ]
+    },
+    {
+        "id": "music-92",
+        "img": "/images/92.jpg",
+        "name": "music-92",
+        "pubDate": "2023/05/10",
+        "url": "musics/92.mp3",
+        "colors": [
+            "#d71061",
+            "#d493a5"
+        ]
+    },
+    {
+        "id": "music-93",
+        "img": "/images/93.jpg",
+        "name": "music-93",
+        "pubDate": "2023/05/10",
+        "url": "musics/93.mp3",
+        "colors": [
+            "#ea9d40",
+            "#96c6e0"
+        ]
+    },
+    {
+        "id": "music-94",
+        "img": "/images/94.jpg",
+        "name": "music-94",
+        "pubDate": "2023/05/10",
+        "url": "musics/94.mp3",
+        "colors": [
+            "#19bdd8",
+            "#70f8f8"
+        ]
+    },
+    {
+        "id": "music-95",
+        "img": "/images/95.jpg",
+        "name": "music-95",
+        "pubDate": "2023/05/10",
+        "url": "musics/95.mp3",
+        "colors": [
+            "#708097",
+            "#3b4658"
+        ]
+    },
+    {
+        "id": "music-96",
+        "img": "/images/96.jpg",
+        "name": "music-96",
+        "pubDate": "2023/05/10",
+        "url": "musics/96.mp3",
+        "colors": [
+            "#76e109",
+            "#97005f"
+        ]
+    },
+    {
+        "id": "music-97",
+        "img": "/images/97.jpg",
+        "name": "music-97",
+        "pubDate": "2023/05/10",
+        "url": "musics/97.mp3",
+        "colors": [
+            "#58a4eb",
+            "#ff82ee"
+        ]
+    },
+    {
+        "id": "music-98",
+        "img": "/images/98.jpg",
+        "name": "music-98",
+        "pubDate": "2023/05/10",
+        "url": "musics/98.mp3",
+        "colors": [
+            "#602c36",
+            "#d2f2fd"
+        ]
+    },
+    {
+        "id": "music-99",
+        "img": "/images/99.jpg",
+        "name": "music-99",
+        "pubDate": "2023/05/10",
+        "url": "musics/99.mp3",
+        "colors": [
+            "#20c4b3",
+            "#6efcef"
+        ]
+    },
+    {
+        "id": "music-100",
+        "img": "/images/100.jpg",
+        "name": "music-100",
+        "pubDate": "2023/05/10",
+        "url": "musics/100.mp3",
+        "colors": [
+            "#f62396",
+            "#a20949"
+        ]
+    },
+    {
+        "id": "music-101",
+        "img": "/images/101.jpg",
+        "name": "music-101",
+        "pubDate": "2023/05/10",
+        "url": "musics/101.mp3",
+        "colors": [
+            "#4692ff",
+            "#031a9a"
+        ]
+    },
+    {
+        "id": "music-102",
+        "img": "/images/102.jpg",
+        "name": "music-102",
+        "pubDate": "2023/05/10",
+        "url": "musics/102.mp3",
+        "colors": [
+            "#22e2e0",
+            "#008796"
+        ]
+    },
+    {
+        "id": "music-103",
+        "img": "/images/103.jpg",
+        "name": "music-103",
+        "pubDate": "2023/05/10",
+        "url": "musics/103.mp3",
+        "colors": [
+            "#08c1be",
+            "#e0a380"
+        ]
+    },
+    {
+        "id": "music-104",
+        "img": "/images/104.jpg",
+        "name": "music-104",
+        "pubDate": "2023/05/10",
+        "url": "musics/104.mp3",
+        "colors": [
+            "#ff7a3f",
+            "#a23b1c"
+        ]
+    },
+    {
+        "id": "music-105",
+        "img": "/images/105.jpg",
+        "name": "music-105",
+        "pubDate": "2023/05/10",
+        "url": "musics/105.mp3",
+        "colors": [
+            "#e1e1e1",
+            "#a1a1a1"
+        ]
+    },
+    {
+        "id": "music-106",
+        "img": "/images/106.jpg",
+        "name": "music-106",
+        "pubDate": "2023/05/10",
+        "url": "musics/106.mp3",
+        "colors": [
+            "#8b8c94",
+            "#494c53"
+        ]
+    },
+    {
+        "id": "music-107",
+        "img": "/images/107.jpg",
+        "name": "music-107",
+        "pubDate": "2023/05/10",
+        "url": "musics/107.mp3",
+        "colors": [
+            "#878a83",
+            "#c0c1c4"
+        ]
+    },
+    {
+        "id": "music-108",
+        "img": "/images/108.jpg",
+        "name": "music-108",
+        "pubDate": "2023/05/10",
+        "url": "musics/108.mp3",
+        "colors": [
+            "#a31f30",
+            "#9d8d80"
+        ]
+    },
+    {
+        "id": "music-109",
+        "img": "/images/109.jpg",
+        "name": "music-109",
+        "pubDate": "2023/05/10",
+        "url": "musics/109.mp3",
+        "colors": [
+            "#f8cd19",
+            "#fa3a38"
+        ]
+    },
+    {
+        "id": "music-110",
+        "img": "/images/110.jpg",
+        "name": "music-110",
+        "pubDate": "2023/05/10",
+        "url": "musics/110.mp3",
+        "colors": [
+            "#d5491c",
+            "#78858c"
+        ]
+    },
+    {
+        "id": "music-111",
+        "img": "/images/111.jpg",
+        "name": "music-111",
+        "pubDate": "2023/05/10",
+        "url": "musics/111.mp3",
+        "colors": [
+            "#90939a",
+            "#4b4b4b"
+        ]
+    },
+    {
+        "id": "music-112",
+        "img": "/images/112.jpg",
+        "name": "music-112",
+        "pubDate": "2023/05/10",
+        "url": "musics/112.mp3",
+        "colors": [
+            "#f98c49",
+            "#62b6da"
+        ]
+    },
+    {
+        "id": "music-113",
+        "img": "/images/113.jpg",
+        "name": "music-113",
+        "pubDate": "2023/05/10",
+        "url": "musics/113.mp3",
+        "colors": [
+            "#a22824",
+            "#d0d1cc"
+        ]
+    },
+    {
+        "id": "music-114",
+        "img": "/images/114.jpg",
+        "name": "music-114",
+        "pubDate": "2023/05/10",
+        "url": "musics/114.mp3",
+        "colors": [
+            "#c7c5c4",
+            "#888685"
+        ]
+    },
+    {
+        "id": "music-115",
+        "img": "/images/115.jpg",
+        "name": "music-115",
+        "pubDate": "2023/05/10",
+        "url": "musics/115.mp3",
+        "colors": [
+            "#d83c28",
+            "#a08a76"
+        ]
+    },
+    {
+        "id": "music-116",
+        "img": "/images/116.jpg",
+        "name": "music-116",
+        "pubDate": "2023/05/10",
+        "url": "musics/116.mp3",
+        "colors": [
+            "#e32948",
+            "#ff9f85"
+        ]
+    },
+    {
+        "id": "music-117",
+        "img": "/images/117.jpg",
+        "name": "music-117",
+        "pubDate": "2023/05/10",
+        "url": "musics/117.mp3",
+        "colors": [
+            "#494c4f",
+            "#a8a3a7"
+        ]
+    },
+    {
+        "id": "music-118",
+        "img": "/images/118.jpg",
+        "name": "music-118",
+        "pubDate": "2023/05/10",
+        "url": "musics/118.mp3",
+        "colors": [
+            "#fc4e56",
+            "#105477"
+        ]
+    },
+    {
+        "id": "music-119",
+        "img": "/images/119.jpg",
+        "name": "music-119",
+        "pubDate": "2023/05/10",
+        "url": "musics/119.mp3",
+        "colors": [
+            "#e51400",
+            "#e9efda"
+        ]
+    },
+    {
+        "id": "music-120",
+        "img": "/images/120.jpg",
+        "name": "music-120",
+        "pubDate": "2023/05/10",
+        "url": "musics/120.mp3",
+        "colors": [
+            "#cacaca",
+            "#909090"
+        ]
+    },
+    {
+        "id": "music-121",
+        "img": "/images/121.jpg",
+        "name": "music-121",
+        "pubDate": "2023/05/10",
+        "url": "musics/121.mp3",
+        "colors": [
+            "#b060fb",
+            "#240ebb"
+        ]
+    },
+    {
+        "id": "music-122",
+        "img": "/images/122.jpg",
+        "name": "music-122",
+        "pubDate": "2023/05/10",
+        "url": "musics/122.mp3",
+        "colors": [
+            "#b12275",
+            "#f17dd9"
+        ]
+    },
+    {
+        "id": "music-123",
+        "img": "/images/123.jpg",
+        "name": "music-123",
+        "pubDate": "2023/05/10",
+        "url": "musics/123.mp3",
+        "colors": [
+            "#942d5e",
+            "#c875ab"
+        ]
+    },
+    {
+        "id": "music-124",
+        "img": "/images/124.jpg",
+        "name": "music-124",
+        "pubDate": "2023/05/10",
+        "url": "musics/124.mp3",
+        "colors": [
+            "#ea12de",
+            "#30b6f3"
+        ]
+    },
+    {
+        "id": "music-125",
+        "img": "/images/125.jpg",
+        "name": "music-125",
+        "pubDate": "2023/05/10",
+        "url": "musics/125.mp3",
+        "colors": [
+            "#43566a",
+            "#7196b5"
+        ]
+    },
+    {
+        "id": "music-126",
+        "img": "/images/126.jpg",
+        "name": "music-126",
+        "pubDate": "2023/05/10",
+        "url": "musics/126.mp3",
+        "colors": [
+            "#adb7c4",
+            "#e0f2ff"
+        ]
+    },
+    {
+        "id": "music-127",
+        "img": "/images/127.jpg",
+        "name": "music-127",
+        "pubDate": "2023/05/10",
+        "url": "musics/127.mp3",
+        "colors": [
+            "#d11410",
+            "#e0786d"
+        ]
+    },
+    {
+        "id": "music-128",
+        "img": "/images/128.jpg",
+        "name": "music-128",
+        "pubDate": "2023/05/10",
+        "url": "musics/128.mp3",
+        "colors": [
+            "#9a8073",
+            "#3d433f"
+        ]
+    },
+    {
+        "id": "music-129",
+        "img": "/images/129.jpg",
+        "name": "music-129",
+        "pubDate": "2023/05/10",
+        "url": "musics/129.mp3",
+        "colors": [
+            "#9f9387",
+            "#635546"
+        ]
+    },
+    {
+        "id": "music-130",
+        "img": "/images/130.jpg",
+        "name": "music-130",
+        "pubDate": "2023/05/10",
+        "url": "musics/130.mp3",
+        "colors": [
+            "#a91531",
+            "#e0e5ec"
+        ]
+    },
+    {
+        "id": "music-131",
+        "img": "/images/131.jpg",
+        "name": "music-131",
+        "pubDate": "2023/05/10",
+        "url": "musics/131.mp3",
+        "colors": [
+            "#53c1d8",
+            "#a645c2"
+        ]
+    },
+    {
+        "id": "music-132",
+        "img": "/images/132.jpg",
+        "name": "music-132",
+        "pubDate": "2023/05/10",
+        "url": "musics/132.mp3",
+        "colors": [
+            "#47c9d1",
+            "#90353f"
+        ]
+    },
+    {
+        "id": "music-133",
+        "img": "/images/133.jpg",
+        "name": "music-133",
+        "pubDate": "2023/05/10",
+        "url": "musics/133.mp3",
+        "colors": [
+            "#a3a7a6",
+            "#fcffff"
+        ]
+    },
+    {
+        "id": "music-134",
+        "img": "/images/134.jpg",
+        "name": "music-134",
+        "pubDate": "2023/05/10",
+        "url": "musics/134.mp3",
+        "colors": [
+            "#03bffe",
+            "#bc0546"
+        ]
+    },
+    {
+        "id": "music-135",
+        "img": "/images/135.jpg",
+        "name": "music-135",
+        "pubDate": "2023/05/10",
+        "url": "musics/135.mp3",
+        "colors": [
+            "#e02413",
+            "#f3b136"
+        ]
+    },
+    {
+        "id": "music-136",
+        "img": "/images/136.jpg",
+        "name": "music-136",
+        "pubDate": "2023/05/10",
+        "url": "musics/136.mp3",
+        "colors": [
+            "#06eddd",
+            "#feba01"
+        ]
+    },
+    {
+        "id": "music-137",
+        "img": "/images/137.jpg",
+        "name": "music-137",
+        "pubDate": "2023/05/10",
+        "url": "musics/137.mp3",
+        "colors": [
+            "#c9037d",
+            "#d3596f"
+        ]
+    },
+    {
+        "id": "music-138",
+        "img": "/images/138.jpg",
+        "name": "music-138",
+        "pubDate": "2023/05/10",
+        "url": "musics/138.mp3",
+        "colors": [
+            "#c8d1d6",
+            "#8a9499"
+        ]
+    }
+]
